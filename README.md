@@ -1,4 +1,4 @@
-ClassicCalculator – Calcu-Bot 3000 🧮
+
 A simple console-based calculator in Java that performs:
 
 Addition
